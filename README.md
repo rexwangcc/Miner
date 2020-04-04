@@ -64,3 +64,56 @@ as of today.
 - [x] ExtraDoors: Provide more modern-look doors
 - [x] Soul Shards Respawn: Spawner mechanics
 - [x] leafmealone: A faster leaf decay mod
+
+## Detailed information for the mods
+
+**Credit: @helgridly**
+
+- **TechReborn** appears to add new items and ores to the world. As far as I can tell this ultimately boils down to more powerful mining tools / weapons but in order to do so it introduces some "energy" mechanics (think batteries and such). The wiki has more details on specifics but no general overview.
+https://wiki.techreborn.ovh/doku.php?id=getting_started
+
+- **Simple BC Pipes** appears to help move items around. It's literally pipes. For moving things.
+https://www.curseforge.com/minecraft/mc-mods/simplepipes It is a compromise before the BC (BuildCraft) is fully ported to v1.15.2 (https://www.mod-buildcraft.com/pages/roadmap.html). BC is a really complex mod system that can help you basically automate everything you could do in Minecraft. Adding this simple pipe right now can benefit us on things like: I want to send some items from the chest in my place to A's place but I’m lazy, so I throw that in the pipe and it will be transported to A.
+
+- **AppleSkin** exposes a visual indicator of Minecraft's hunger mechanics. It doesn't change them.
+https://www.curseforge.com/minecraft/mc-mods/appleskin
+
+- **VoxelMap** provides an extremely detailed world map.
+Really obnoxious video review: https://www.youtube.com/watch?v=0zNtL3a79iE
+
+- **LightOverlay** shows how well the world is lit so you know if monsters will spawn.
+
+- **Roughly Enough Items** shows you crafting recipes in-game.
+http://www.mc-mod.net/roughly-enough-items-mod/
+
+- **AutoFish** automatically recasts and reels in your fishing rod for you.
+https://www.curseforge.com/minecraft/mc-mods/autofish
+
+- **Here's What You're Looking At (HWYLA)** is an overlay that gives you detailed information about what's under your crosshair, for instance showing you the contents of a furnace.
+https://www.curseforge.com/minecraft/mc-mods/hwyla/screenshots
+
+- **Vanilla Hammers** adds the "hammer" mining tool, which mines out a 3x3 area in front of you.
+https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers
+
+- **ToroHealth** damage indicator adds a health damage visualisation when you hit something, and an indication on your screen of how much health the entity under your crosshair has.
+https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators
+
+- **Yet Another Gravestone** saves your items in a chest when you die, so you can go back and retrieve them.
+
+- **Item Scroller** provides shortcuts for item selection so you can easily move things between e.g. your inventory and chests.
+https://www.curseforge.com/minecraft/mc-mods/item-scroller
+
+- **Extra Bows** adds more types of bows and arrows.
+https://www.curseforge.com/minecraft/mc-mods/extra-bows
+
+- **EquipZ** adds new weapons.
+https://www.curseforge.com/minecraft/mc-mods/equipz
+
+- **Extra doors** adds new types of door.
+https://www.curseforge.com/minecraft/mc-mods/extradoors
+
+- **Soul Shards** Respawn lets you build your own spawner cages.
+https://www.curseforge.com/minecraft/mc-mods/soul-shards-respawn
+
+- **leafmealone** makes leaves decay MUCH faster.
+https://www.curseforge.com/minecraft/mc-mods/leaf-me-alone
